@@ -62,6 +62,15 @@ const sortByChildren = (charArray) => {
       return a.house > b.house ? 1 : -1;
     }
   });
+//   let number = Object.values(charArray.children);
+//   let newArr = [];
+//  for (let i=0; i<charArray.length;i++){
+//   number[i]>number[i+1];
+//   newArr.push(number)
+//  } return newArr;
+
+
+
 };
 
 /* ------------------------------------------------------------------------------------------------
